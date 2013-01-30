@@ -1,0 +1,13 @@
+{
+  "name": "series-each",
+  "repo": "component-async/series-each",
+  "version": "0.0.0",
+  "description": "async series each",
+  "keywords": [],
+  "scripts": ["index.js"],
+  "dependencies": {
+  },
+  "development": {
+  },
+  "license": "MIT"
+}
