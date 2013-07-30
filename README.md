@@ -1,10 +1,10 @@
-# series-each
+# async-serial-each
 
-async series each
+async serial each
 
 ## Installation
 
-    $ component install component-async/series-each
+    $ component install enricomarino/async-serial-each
 
 ## License
 
