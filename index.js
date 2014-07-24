@@ -24,7 +24,7 @@ module.exports = series_each;
  * @api public
  */
 
-series_each = function (array, iterator, callback) {
+function series_each (array, iterator, callback) {
   var completed = 0;
   var len = array.length;
   
